@@ -1,2 +1,5 @@
 # javascript
-Omnia Producciones Web
+
+HTML - CSS - JS (JQUERY)
+
+Omnia Producciones Web (Only for GitHuB)
